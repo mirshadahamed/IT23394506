@@ -1,4 +1,3 @@
-# IT23394506
 # 🧪 Playwright Automation Test – PixelsSuite
 # ITPM Assignment 1 - Option 1 (IT23364506)
 
